@@ -7,6 +7,8 @@
 #### A custom export plugin for Fiddler to target Microsoft Visual Web Test and Load testing framework that provides durable Load and Web Tests against federated environments.
 -------------------------------------------------------------------------------------------------------------------------------
 
+#### Please note that this is a fork of my other project WSTrustFiddlerWebTestExport on Github ! Use that project instead - as this is a tailored project for a project at my work place.
+
 This version targets Fiddler version *5.0.20182.28034* or similar (5.0.x or perhaps newer versions, I have not tested this out). It might work with similar versions to 5.0.x or newer, bundled with this source code is 
 the Fiddler.exe file in the Fiddler folder of this repository.
 
