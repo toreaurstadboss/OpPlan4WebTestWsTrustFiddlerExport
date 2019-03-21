@@ -2,10 +2,10 @@
 <package >
   <metadata>
     <id>OpPlan4VSWebTestExport</id>
-    <version>2.6.0.0</version>
+    <version>2.6.1.0</version>
     <title>OpPlan4VSWebTestExport</title>
-    <authors>Tore Aurstad IT</authors>
-    <owners>$author$</owners>
+    <authors>Tore Aurstad</authors>
+    <owners>Tore Aurstad IT</owners>
     <projectUrl>https://github.com/toreaurstad/WsTrustFiddlerWebTestExport</projectUrl>
     <iconUrl>https://github.com/toreaurstad/WsTrustFiddlerWebTestExport/blob/master/labflask.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>

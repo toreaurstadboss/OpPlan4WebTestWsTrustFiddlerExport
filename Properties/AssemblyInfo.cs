@@ -11,7 +11,7 @@ using System.Runtime.Versioning;
 [assembly: AssemblyDescription("Durable Load and Web Tests against protected federated environments in Fiddler by parameterizing WS Trust SAML token.")]
 [assembly: AssemblyTitle("OpPlan4VSWebTestExport")]
 [assembly: AssemblyTrademark("")]
-[assembly: AssemblyVersion("2.6.0.0")]
+[assembly: AssemblyVersion("2.6.1.0")]
 [assembly: CompilationRelaxations(8)]
 [assembly: ComVisible(false)]
 [assembly: Debuggable(DebuggableAttribute.DebuggingModes.IgnoreSymbolStoreSequencePoints)]
