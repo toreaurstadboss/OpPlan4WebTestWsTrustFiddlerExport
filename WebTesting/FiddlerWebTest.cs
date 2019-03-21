@@ -623,9 +623,9 @@ namespace Fiddler.WebTesting
                     oXML.WriteStartElement("WebTestPlugins");
 
                     oXML.WriteStartElement("WebTestPlugin");
-                    oXML.WriteAttributeString("Classname", "Hemit.OpPlan.LoadTestClassLib.IamWebTestClaimsPlugin, Hemit.OpPlan.LoadTestClassLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null");
-                    oXML.WriteAttributeString("DisplayName", "IamWebTestClaimsPlugin");
-                    oXML.WriteAttributeString("Description", "Performs the authentication routine against IAM setting ClaimsIdentity and ClaimsPrincipal");
+                    oXML.WriteAttributeString("Classname", "Hemit.OpPlan.LoadTestClassLib.StsWebTestClaimsPlugin, Hemit.OpPlan.LoadTestClassLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null");
+                    oXML.WriteAttributeString("DisplayName", "StsWebTestClaimsPlugin");
+                    oXML.WriteAttributeString("Description", "Performs the authentication routine against STS setting ClaimsIdentity and ClaimsPrincipal");
 
                     oXML.WriteStartElement("RuleParameters");
 

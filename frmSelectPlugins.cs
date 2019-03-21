@@ -257,7 +257,7 @@ namespace Fiddler
             // 
             // groupBox1
             // 
-            this.groupBox1.BackColor = System.Drawing.Color.Yellow;
+            this.groupBox1.BackColor = System.Drawing.Color.Cornsilk;
             this.groupBox1.Controls.Add(this.tbDisplayName);
             this.groupBox1.Controls.Add(this.lblDisplayName);
             this.groupBox1.Controls.Add(this.lblUsername);
@@ -309,7 +309,7 @@ namespace Fiddler
             // 
             this.AcceptButton = this.btnOk;
             this.AutoScaleBaseSize = new System.Drawing.Size(5, 13);
-            this.BackColor = System.Drawing.Color.PaleTurquoise;
+            this.BackColor = System.Drawing.Color.MediumAquamarine;
             this.CancelButton = this.btnCancel;
             this.ClientSize = new System.Drawing.Size(876, 474);
             this.Controls.Add(this.pictureBox1);

@@ -2,7 +2,7 @@ echo "Latest Nuget commandline can be downloaded from: https://www.nuget.org/dow
 echo "Starting packing of Nuget package.." 
 echo "Assuming that nuget.exe is in bundled Nuget folder in this VS solution"
 
-echo Nuget\nuget.exe 
+echo Nuget\nuget.exe pack
 
 echo "Remember to update the version attribute of the .nuspec file in this folder before packing and publishing. Edit the WSTrustFiddlerWebTestExport.nuspec file."
 

@@ -196,7 +196,12 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Fiddler\Fiddler.exe" />
+    <Content Include="Nuget\nuget.exe" />
     <Content Include="Solution Items\README.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Nugetpack.cmd" />
+    <None Include="OpPlan4VSWebTestExport.nuspec" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>OpPlan4VSWebTestExport</id>
+    <version>2.6.0.0</version>
+    <title>OpPlan4VSWebTestExport</title>
+    <authors>Tore Aurstad IT</authors>
+    <owners>$author$</owners>
+    <projectUrl>https://github.com/toreaurstad/WsTrustFiddlerWebTestExport</projectUrl>
+    <iconUrl>https://github.com/toreaurstad/WsTrustFiddlerWebTestExport/blob/master/labflask.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Parameterizes the SAML token of sessions captured from Fiddler into a WebTest so it is possible to execute a recorded web test later by injecting SAML token parameters from a STS of your choice. This is a fork from WSTrustFiddlerWebTestExport and this Nuget package is recommended instead for general purpose.</description>
+    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <copyright>Copyright Tore Aurstad IT © 2019</copyright>
+    <tags>Tag1 Tag2</tags>
+  </metadata>
+</package>
